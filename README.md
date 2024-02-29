@@ -1,0 +1,1 @@
+All of the code is located in the Project 1 folder. As far as I know there isn't anything special you need to do to get it to run, but I only ran it using the live server extension on Visual Studio Code.
